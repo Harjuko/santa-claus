@@ -1,0 +1,2 @@
+class SantaClause < ApplicationRecord
+end
